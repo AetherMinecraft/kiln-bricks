@@ -1,0 +1,7 @@
+format: kiln.catalog/v1
+name: AetherMinecraft Bricks
+author: AetherMinecraft
+docs: https://github.com/AetherMinecraft/kiln-bricks
+support: https://github.com/AetherMinecraft/kiln-bricks/issues
+recipes:
+  - recipes/nanolimbo.yml
